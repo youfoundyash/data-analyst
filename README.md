@@ -1,2 +1,1 @@
-# data-analyst
-project on Airbnb data 
+# Data Analysis Project
